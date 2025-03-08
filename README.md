@@ -1,14 +1,15 @@
 ## Hi there 👋
-# Hello, I'm Kenward Keene Hermanto
-## About Me  
-Studying at **Universitas Sumatera Utara (USU)**  
-Passionate about **Web development, mobile development, and cyber security**  
+# Hello, I'm Nicholas 
+
+## 🎮 About Me  
+- 🕹️ I probably spend too much time playing video games
+- 💻 I’m currently learning **Web development, mobile development**  
 ### My Contact
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=Nicholaskensurya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-surya-a69233342/)
 ## GitHub Stats  
-![Kenward's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drakenvei&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenvei&layout=compact&theme=radical)  
+![Drakenvei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drakenvei&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakenvei&layout=compact&theme=tokyonight)  
 <!--
 **Drakenvei/Drakenvei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
