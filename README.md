@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hello, I'm Nicholas 
+## Hello there, I'm Nicholas
 
 ## 🎮 About Me  
 - 🕹️ I probably spend too much time playing video games
